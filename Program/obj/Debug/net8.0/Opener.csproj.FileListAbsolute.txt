@@ -1,0 +1,17 @@
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\bin\Debug\net8.0\Opener.exe
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\bin\Debug\net8.0\Opener.deps.json
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\bin\Debug\net8.0\Opener.runtimeconfig.json
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\bin\Debug\net8.0\Opener.dll
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\bin\Debug\net8.0\Opener.pdb
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\obj\Debug\net8.0\Opener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\obj\Debug\net8.0\Opener.AssemblyInfoInputs.cache
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\obj\Debug\net8.0\Opener.AssemblyInfo.cs
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\obj\Debug\net8.0\Opener.csproj.CoreCompileInputs.cache
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\obj\Debug\net8.0\Opener.dll
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\obj\Debug\net8.0\refint\Opener.dll
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\obj\Debug\net8.0\Opener.pdb
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\obj\Debug\net8.0\Opener.genruntimeconfig.cache
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\obj\Debug\net8.0\ref\Opener.dll
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\obj\Debug\net8.0\Opener.csproj.AssemblyReference.cache
+C:\Users\amaec\OneDrive\WS\Projects\apps\c-sharp\Opener\Opener\obj\Debug\net8.0\Opener.csproj.Up2Date

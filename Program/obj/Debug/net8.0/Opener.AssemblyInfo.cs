@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Opener")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0d5f55cdc2829334a572a985a48b8536437e34a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Opener")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Opener")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

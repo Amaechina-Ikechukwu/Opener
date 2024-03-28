@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amaec\\OneDrive\\WS\\Projects\\apps\\c-sharp\\Opener\\Opener\\Opener.csproj",
+      "projectUniqueName": "C:\\Users\\amaec\\OneDrive\\WS\\Projects\\apps\\c-sharp\\Opener\\Program\\Opener.csproj",
       "projectName": "Opener",
-      "projectPath": "C:\\Users\\amaec\\OneDrive\\WS\\Projects\\apps\\c-sharp\\Opener\\Opener\\Opener.csproj",
+      "projectPath": "C:\\Users\\amaec\\OneDrive\\WS\\Projects\\apps\\c-sharp\\Opener\\Program\\Opener.csproj",
       "packagesPath": "C:\\Users\\amaec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amaec\\OneDrive\\WS\\Projects\\apps\\c-sharp\\Opener\\Opener\\obj\\",
+      "outputPath": "C:\\Users\\amaec\\OneDrive\\WS\\Projects\\apps\\c-sharp\\Opener\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amaec\\AppData\\Roaming\\NuGet\\NuGet.Config"

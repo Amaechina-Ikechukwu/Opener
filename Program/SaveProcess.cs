@@ -2,19 +2,24 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics; // Importing the necessary namespace
 using Newtonsoft.Json;
+class AppEntry
+{
+    public required string Key { get; set; }
+    public required string Value { get; set; }
+}
 class SaveProcess
 {
-    public static void ReceiverInput(Process[] processes)
+    public static void ReceiverInput(Dictionary<string,string> openApps)
     {
         Console.Write("What will this shortcut be called?: ");
         string? shortcutName = Console.ReadLine();
         if(!string.IsNullOrEmpty(shortcutName)){
-     Dictionary<string, List<string>> workspace = new Dictionary<string, List<string>>();
-        List<string> items = new List<string>();
+     Dictionary<string, List<AppEntry>> workspace = new Dictionary<string, List<AppEntry>>();
+        List<AppEntry> items = new List<AppEntry>();
 
-        foreach (Process process in processes)
+        foreach (var apps in openApps)
         {
-            items.Add(process.ProcessName);
+            items.Add(new AppEntry { Key = apps.Key, Value = apps.Value });
         }
 
         workspace[shortcutName] = items;
@@ -26,6 +31,7 @@ class SaveProcess
             }
             
         Console.WriteLine($"Saved {shortcutName.ToUpper()}");
+            Thread.Sleep(6000);
 } 
        
     }
